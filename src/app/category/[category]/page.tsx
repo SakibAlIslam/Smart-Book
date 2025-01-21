@@ -1,9 +1,9 @@
-// import React from 'react'
+import React from 'react'
 
-// const Category = () => {
-//   return (
-//     <div>category</div>
-//   )
-// }
+const CatId = () => {
+  return (
+    <div>CatId</div>
+  )
+}
 
-// export default Category
+export default CatId
